@@ -10,42 +10,7 @@ Riverpod ( Provider 2.0 )
 
 Project Architecture:
 
-lib
-|
-├── services
-│   ├── local_storage_services
-│   │   └── local_db.dart
-│   └── network_services
-│       └── authentication_service.dart
-|
-├── models
-│   ├── user_model.dart
-│   └── posts_model.dart
-|
-├── config
-│   └── environment.dart
-|
-├── utils
-│   ├── apptheme.dart
-│   ├── constants.dart
-│   └── routers.dart
-|
-├── views
-│   ├── profile_section
-│   │   └── profile_screen.dart
-│   ├── home_section
-│   │   └── home_screen.dart
-│   ├── explore_section
-│   │   └── restaurants_screen.dart
-│   └── widgets
-│       ├── postcard.dart
-│       └── follow_button.dart
-|
-└── controllers
-|   └── authentication_controller.dart
-|
-└── main.dart
-
+<img width="1125" alt="Screenshot 2022-09-25 at 14 47 25" src="https://user-images.githubusercontent.com/68772934/192137645-ec831eec-928f-453e-9f9f-c32982645c6b.png">
 
 Screenshots:
 
