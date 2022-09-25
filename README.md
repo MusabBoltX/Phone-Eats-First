@@ -8,6 +8,45 @@ Model View Controller ( MVC )
 State management used in this project:
 Riverpod ( Provider 2.0 )
 
+Project Architecture:
+
+lib
+|
+├── services
+│   ├── local_storage_services
+│   │   └── local_db.dart
+│   └── network_services
+│       └── authentication_service.dart
+|
+├── models
+│   ├── user_model.dart
+│   └── posts_model.dart
+|
+├── config
+│   └── environment.dart
+|
+├── utils
+│   ├── apptheme.dart
+│   ├── constants.dart
+│   └── routers.dart
+|
+├── views
+│   ├── profile_section
+│   │   └── profile_screen.dart
+│   ├── home_section
+│   │   └── home_screen.dart
+│   ├── explore_section
+│   │   └── restaurants_screen.dart
+│   └── widgets
+│       ├── postcard.dart
+│       └── follow_button.dart
+|
+└── controllers
+|   └── authentication_controller.dart
+|
+└── main.dart
+
+
 Screenshots:
 
 ![Onboarding](https://user-images.githubusercontent.com/68772934/192134672-ca4c69dd-7fce-4d16-baa5-0c9895081409.png)
