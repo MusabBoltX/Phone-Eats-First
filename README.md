@@ -2,6 +2,12 @@
 
 A social media application for foodies arround the world. This application is a food lovers community platform where they can like, share, post reviews and explore new food stations near them.
 
+Download it now:
+
+App Store: https://apps.apple.com/us/app/phone-eats-first/id1546228506
+
+Play Store: https://play.google.com/store/apps/details?id=com.phoneeatsfirst.app&hl=en&gl=US
+
 Development pattern used in this Phone Eats First: 
 Model View Controller ( MVC )
 
